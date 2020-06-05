@@ -1,0 +1,5 @@
+.vscode
+misc.py
+Pipfile.lock
+__pycache__
+messages.json
